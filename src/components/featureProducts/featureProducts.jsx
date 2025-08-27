@@ -1,6 +1,6 @@
 import { useContext, useEffect, useState } from "react";
 
-import "./FeatureProducts.module.css";
+import "./featureProducts.module.css";
 import axios from "axios";
 import { Loader } from "../Loader/Loader";
 import { useQuery } from "@tanstack/react-query";
